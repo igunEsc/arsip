@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Peace Sans';
+    src: url('PeaceSans.html') format('woff2'),
+         url('PeaceSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
